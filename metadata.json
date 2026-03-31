@@ -1,0 +1,5 @@
+{
+  "name": "ToxiPredict AI",
+  "description": "AI-powered drug toxicity prediction and molecular analysis platform for pharmacology research.",
+  "requestFramePermissions": ["camera"]
+}
