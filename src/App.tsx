@@ -414,7 +414,7 @@ export default function App() {
               Research Note
             </h3>
             <p className="text-[10px] text-text-secondary leading-relaxed">
-              Predictions generated via Gemini 2.5 Flash Pharmacology Neural Core.
+              Predictions generated via Pharmacology Intelligence System ~TOXIPREDICT AI
             </p>
           </section>
         </div>
