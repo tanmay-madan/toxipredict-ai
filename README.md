@@ -101,5 +101,5 @@ Future Enhancements
 * Exportable reports (PDF/CSV)
 * Expanded chemical and toxicological analysis capabilities
 
-Author
+Author:
 Tanmay Madan
